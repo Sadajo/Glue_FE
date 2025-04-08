@@ -34,7 +34,6 @@
 
 ---
 ## 👥 Members | 팀원  
-https://avatars.githubusercontent.com/u/57588269?v=4
 ### 🖥 Frontend (FE)  
 |<img src="https://avatars.githubusercontent.com/u/57588269?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/87095094?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129269335?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/165051638?v=4" width="150" height="150"/>|  
 |:-:|:-:|:-:|:-:|  
